@@ -1,0 +1,2 @@
+# devoloper
+basit kodlar
